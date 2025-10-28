@@ -17,3 +17,4 @@ def backward_chaining(goal):
     return False
 
 backward_chaining("animal(A)")
+
